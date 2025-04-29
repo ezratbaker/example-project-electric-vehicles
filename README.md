@@ -14,7 +14,7 @@ In this project, I played the role of a **Data Analyst for an electric vehicle (
 ## Tools
 
 - 📚 SQL (PostgreSQL, SQLAlchemy integration)
-- 🐍 Python (Pandas, Matplotlib)
+- 🐍 Python (Pandas, Matplotlib, Scikit-learn)
 - 📓 Jupyter Notebook
 
 ## Project Structure
