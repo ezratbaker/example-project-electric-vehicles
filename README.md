@@ -4,9 +4,12 @@
 
 In this project, I played the role of a **Data Analyst for an electric vehicle (EV) company** aiming to understand **global EV market trends and forecast future opportunities**. Using data from the **International Energy Agency (IEA)** for 2010 to 2023, I analyzed **vehicle sales by country, continent, mode, and powertrain**, then used **forecasting techniques** to predict **future EV sales volume and market share** through **2033**.
 
+![EV Forecasts Hero Visual](ev_forecasts_hero.png)
+
 ## Skills
 
 - 🔮 Forecasting (Holt-Winters Exponential Smoothing)
+- 📏 Model Fit (RMSE, held-out data testing)
 - 📈 Regression Analysis (Linear regression)
 - 📊 Data Visualization (Time series and categorical plots with advanced formatting)
 - 🔍 Data Quality & Validation (Cleaning, transformation, and integrity checks)
