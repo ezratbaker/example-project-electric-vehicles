@@ -1,4 +1,4 @@
-# Electric Vehicle Market Analysis & Forecasting Project
+# Electric Vehicle Market Analysis & Forecast
 
 ## Project Overview
 
